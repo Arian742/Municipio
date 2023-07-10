@@ -1,0 +1,6 @@
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\bin\Debug\capa_entidad.dll
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\bin\Debug\capa_entidad.pdb
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\obj\Debug\capa_entidad.csproj.AssemblyReference.cache
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\obj\Debug\capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\obj\Debug\capa_entidad.dll
+C:\Users\estudiante\source\repos\LegajosMuni\capa_entidad\obj\Debug\capa_entidad.pdb
