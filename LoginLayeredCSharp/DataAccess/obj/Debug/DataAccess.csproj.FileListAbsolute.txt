@@ -1,0 +1,9 @@
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\Common.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\Common.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
