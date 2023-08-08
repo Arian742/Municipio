@@ -1,0 +1,20 @@
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\Common.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\bin\Debug\Common.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\Capa_entidad.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\Common.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\Capa_entidad.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\bin\Debug\Common.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\DataAccess\obj\Debug\DataAccess.pdb

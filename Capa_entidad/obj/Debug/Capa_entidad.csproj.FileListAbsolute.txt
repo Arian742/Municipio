@@ -1,0 +1,6 @@
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Capa_entidad\obj\Debug\Capa_entidad.pdb
