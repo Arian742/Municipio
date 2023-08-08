@@ -1,0 +1,44 @@
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.exe
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Domain.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Domain.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.exe
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Common.dll
+C:\Users\Colol\Desktop\vs 22\LoginLayeredCSharp\Presentation\bin\Debug\Common.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Presentation.exe
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Common.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Domain.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\DataAccess.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Common.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Domain.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\DataAccess.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.Form2.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.FormLogin.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.exe
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.Form3.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\obj\Debug\Presentation.Form4.resources
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Capa_entidad.dll
+C:\Users\Colol\Desktop\Copias de seguridad\LoginLayeredCSharp copia 2\Presentation\bin\Debug\Capa_entidad.pdb
